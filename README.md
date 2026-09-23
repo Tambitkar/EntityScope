@@ -1,0 +1,1 @@
+# EntityScope
